@@ -1,0 +1,53 @@
+<!--
+################################################################################
+#                                                                              #
+# Copyright (C) 2015  Marcelo Costa  - COMDESK Tecnologia                      #
+#                                                                              #
+# This program is free software: you can redistribute it and/or modify         #
+# it under the terms of the GNU Affero General Public License as published by  #
+# the Free Software Foundation, either version 3 of the License, or            #
+# (at your option) any later version.                                          #
+#                                                                              #
+# This program is distributed in the hope that it will be useful,              #
+# but WITHOUT ANY WARRANTY; without even the implied warranty of               #
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the                #
+# GNU Affero General Public License for more details.                          #
+#                                                                              #
+# You should have received a copy of the GNU Affero General Public License     #
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.        #
+#                                                                              #
+################################################################################
+-->
+
+<openerp>
+    <data>
+        <record id="course0" model="openacademy.course">
+            <field name="name">Course 0</field> 
+            <field name="description">Description Course 0</field> 
+        </record>
+        
+        <record id="course1" model="openacademy.course"> -->
+            <field name="name">Course 1</field>
+            <field name="description">Description Course 1</field> 
+        </record>
+
+        <record id="course2" model="openacademy.course"> -->
+            <field name="name">Course 2</field>
+            <field name="description">Description Course 2</field> 
+        </record>
+        
+        <!--  -->
+        <!--   <record id="object2" model="openacademy.openacademy"> -->
+        <!--     <field name="name">Object 2</field> -->
+        <!--   </record> -->
+        <!--  -->
+        <!--   <record id="object3" model="openacademy.openacademy"> -->
+        <!--     <field name="name">Object 3</field> -->
+        <!--   </record> -->
+        <!--  -->
+        <!--   <record id="object4" model="openacademy.openacademy"> -->
+        <!--     <field name="name">Object 4</field> -->
+        <!--   </record> -->
+        <!--  -->
+    </data>
+</openerp>
